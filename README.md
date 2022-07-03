@@ -40,6 +40,25 @@ Pada gambar berikut merupakan delete atau menghapus pada calon_siswa
 
 ![image](https://user-images.githubusercontent.com/81188572/177028607-a199f8f3-caf6-4832-9b42-e34de4f74dc6.png)
 
+**CREATE**
+![image](https://user-images.githubusercontent.com/81188572/177028690-1f02cadd-4d4e-46d1-ad57-f85823b3d268.png)
+
+![image](https://user-images.githubusercontent.com/81188572/177028697-56cf8288-897c-49bd-b611-4c20ac832c6b.png)
+
+![image](https://user-images.githubusercontent.com/81188572/177028718-ad11a913-674e-412e-af0a-c8b6e2b798d4.png)
+
+**READ**
+![image](https://user-images.githubusercontent.com/81188572/177028742-400a6d74-3130-476a-9c45-67d936189a32.png)
+
+**UPDATE**
+![image](https://user-images.githubusercontent.com/81188572/177028800-19080153-97bb-4493-93ad-f6f84048ceb9.png)
+
+![image](https://user-images.githubusercontent.com/81188572/177028824-ab9d2d72-aeb9-4d45-a9be-eb8a728fd16c.png)
+
+**DELETE**
+![image](https://user-images.githubusercontent.com/81188572/177028833-7ed0fa02-043f-4b39-986e-c20143fdf6d1.png)
+
+![image](https://user-images.githubusercontent.com/81188572/177028842-0dd9b51e-c26e-49f8-a1f7-51b20bd7f302.png)
 
 
 
