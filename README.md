@@ -11,7 +11,7 @@ Pada database pendaftar terdapat table calon_siswa dan user
 
 ![image](https://user-images.githubusercontent.com/81188572/177024512-6198989d-1688-44a0-bb99-96e130cff2e1.png)
 
-#Fungsi
+# Fungsi
 CREATE
 pada gambar berikut merupakan proses pendaftaran atau penambahan data pada database yang telah dihubungkan dengan database pendaftaran
 
