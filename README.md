@@ -48,6 +48,7 @@ Pada gambar berikut merupakan delete atau menghapus pada calon_siswa
 ![image](https://user-images.githubusercontent.com/81188572/177028718-ad11a913-674e-412e-af0a-c8b6e2b798d4.png)
 
 **READ**
+
 ![image](https://user-images.githubusercontent.com/81188572/177028742-400a6d74-3130-476a-9c45-67d936189a32.png)
 
 **UPDATE**
