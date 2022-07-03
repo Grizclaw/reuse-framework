@@ -103,6 +103,7 @@ Ketika menekan tombol detail, maka akan menampilkan halaman biodata yang berisik
 ![image](https://user-images.githubusercontent.com/81188572/177029326-d32f344f-b6ce-4c2c-8025-557143d32c70.png)
 
 **PROSES HAPUS/DELETE**
+
 ![image](https://user-images.githubusercontent.com/81188572/177029380-a8cc1fd6-3bdb-4b73-ad1f-e9435ef6d72f.png)
 
 
