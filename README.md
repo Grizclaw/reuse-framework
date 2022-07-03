@@ -64,13 +64,37 @@ Pada gambar berikut merupakan delete atau menghapus pada calon_siswa
 
 
 # FLOWCHART
-Pada mulai akan menampilkan halaman Login, pada halaman login terdapat tombol login dan akan menampilkan halaman admin yang terdapat tabel yang berisi data calon_siswa yang tersimpan, Ketika masuk ke halaman admin.php setelah itu menekan tombol pendaftaran, maka akan menampilkan halaman pendaftaran dan harus menginput data. Setelah dimasukan, data akan di proses untuk di input ke dalam tabel pendaftaran pada database calon_siswa dan akan menampilkan kembali halaman admin.
+Pada mulai akan menampilkan halaman Login, pada halaman login terdapat tombol login dan akan menampilkan halaman awal yang terdapat tabel yang berisi data calon_siswa yang tersimpan, Ketika masuk ke halaman awal setelah itu menekan tombol pendaftaran, maka akan menampilkan halaman pendaftaran dan harus menginput data. Setelah dimasukan, data akan di proses untuk di input ke dalam tabel pendaftaran pada database calon_siswa dan akan menampilkan kembali halaman awal.
 Ketika menekan tombol ubah, maka akan menampilkan halaman edit yang formnya sudah terisi dengan data yang ingin di edit dan harus menginput data. Setelah dimasukan, data akan di proses untuk di update ke dalam tabel pendaftaran pada database calon_siswa dan akan menampilkan kembali halaman admin
 Ketika menekan tombol hapus maka data akan di proses untuk di hapus
 Ketika menekan tombol detail, maka akan menampilkan halaman biodata yang berisikan detail dari tabel calon_siswa yang dipilih
 
 ![image](https://user-images.githubusercontent.com/81188572/177028920-bfbd1b60-a019-4a8c-bd94-a1293b21745e.png)
 
+
+# DOKUMENTASI KODINGAN
+
+**LOGIN**
+![image](https://user-images.githubusercontent.com/81188572/177028998-3393b130-6269-4502-9a96-49aebc1b1e84.png)
+
+**LOGOUT**
+![image](https://user-images.githubusercontent.com/81188572/177029025-f8e736b5-05ab-461b-93c0-4a41bc747c75.png)
+
+**HALAMAN AWAL**
+![image](https://user-images.githubusercontent.com/81188572/177029152-ba3196cc-8e8a-45a5-991f-eda4638c3f2c.png)
+![image](https://user-images.githubusercontent.com/81188572/177029163-79893475-10cc-4307-a13f-868735cb46de.png)
+
+**HALAMAN DAFTAR/CREATE**
+![image](https://user-images.githubusercontent.com/81188572/177029199-3ae9326d-647e-4dce-b90b-c5036379c5ad.png)
+
+**PROSES DAFTAR/CREATE**
+![image](https://user-images.githubusercontent.com/81188572/177029213-c793c1e5-7ccc-4ce5-acd1-defb4d66c3ab.png)
+
+**HALAMAN UBAH/UPDATE**
+![image](https://user-images.githubusercontent.com/81188572/177029241-ccbf7528-0278-43da-bbfd-04a2952c1df0.png)
+
+**PROSES UBAH/UPDATE**
+![image](https://user-images.githubusercontent.com/81188572/177029271-c858eb6e-29b8-4b3b-925e-ed5f90ef5f5f.png)
 
 
 
