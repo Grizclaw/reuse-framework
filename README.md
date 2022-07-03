@@ -36,7 +36,10 @@ Pada gambar berikut merupakan delete atau menghapus pada calon_siswa
 
 # Uji Database
 **Kondisi Awal**
-![image](https://user-images.githubusercontent.com/81188572/177025177-871b8bb9-37e0-47cd-b291-b418a00d7e45.png)
+![image](https://user-images.githubusercontent.com/81188572/177028588-92612fdf-e737-41c6-8e41-201a50aed073.png)
+
+![image](https://user-images.githubusercontent.com/81188572/177028607-a199f8f3-caf6-4832-9b42-e34de4f74dc6.png)
+
 
 
 
