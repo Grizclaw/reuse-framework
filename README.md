@@ -57,9 +57,21 @@ Pada gambar berikut merupakan delete atau menghapus pada calon_siswa
 ![image](https://user-images.githubusercontent.com/81188572/177028824-ab9d2d72-aeb9-4d45-a9be-eb8a728fd16c.png)
 
 **DELETE**
+
 ![image](https://user-images.githubusercontent.com/81188572/177028833-7ed0fa02-043f-4b39-986e-c20143fdf6d1.png)
 
 ![image](https://user-images.githubusercontent.com/81188572/177028842-0dd9b51e-c26e-49f8-a1f7-51b20bd7f302.png)
+
+
+# FLOWCHART
+Pada mulai akan menampilkan halaman Login, pada halaman login terdapat tombol login dan akan menampilkan halaman admin yang terdapat tabel yang berisi data calon_siswa yang tersimpan, Ketika masuk ke halaman admin.php setelah itu menekan tombol pendaftaran, maka akan menampilkan halaman pendaftaran dan harus menginput data. Setelah dimasukan, data akan di proses untuk di input ke dalam tabel pendaftaran pada database calon_siswa dan akan menampilkan kembali halaman admin.
+Ketika menekan tombol ubah, maka akan menampilkan halaman edit yang formnya sudah terisi dengan data yang ingin di edit dan harus menginput data. Setelah dimasukan, data akan di proses untuk di update ke dalam tabel pendaftaran pada database calon_siswa dan akan menampilkan kembali halaman admin
+Ketika menekan tombol hapus maka data akan di proses untuk di hapus
+Ketika menekan tombol detail, maka akan menampilkan halaman biodata yang berisikan detail dari tabel calon_siswa yang dipilih
+
+![image](https://user-images.githubusercontent.com/81188572/177028920-bfbd1b60-a019-4a8c-bd94-a1293b21745e.png)
+
+
 
 
 
