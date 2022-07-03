@@ -78,6 +78,7 @@ Ketika menekan tombol detail, maka akan menampilkan halaman biodata yang berisik
 ![image](https://user-images.githubusercontent.com/81188572/177028998-3393b130-6269-4502-9a96-49aebc1b1e84.png)
 
 **LOGOUT**
+
 ![image](https://user-images.githubusercontent.com/81188572/177029025-f8e736b5-05ab-461b-93c0-4a41bc747c75.png)
 
 **HALAMAN AWAL**
@@ -94,7 +95,15 @@ Ketika menekan tombol detail, maka akan menampilkan halaman biodata yang berisik
 ![image](https://user-images.githubusercontent.com/81188572/177029241-ccbf7528-0278-43da-bbfd-04a2952c1df0.png)
 
 **PROSES UBAH/UPDATE**
+
 ![image](https://user-images.githubusercontent.com/81188572/177029271-c858eb6e-29b8-4b3b-925e-ed5f90ef5f5f.png)
+
+**HALAMAN BIODATA/READ**
+![image](https://user-images.githubusercontent.com/81188572/177029316-0fc657aa-84e9-4bfe-b2bb-6adb5cec4464.png)
+![image](https://user-images.githubusercontent.com/81188572/177029326-d32f344f-b6ce-4c2c-8025-557143d32c70.png)
+
+**PROSES HAPUS/DELETE**
+![image](https://user-images.githubusercontent.com/81188572/177029380-a8cc1fd6-3bdb-4b73-ad1f-e9435ef6d72f.png)
 
 
 
